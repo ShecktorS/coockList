@@ -12,6 +12,11 @@ export class RecipeListComponent implements OnInit {
       'Una bella ricetta',
       'https://th.bing.com/th/id/OIP.QExi6APdpquqTSgicOJpWgHaE-?pid=ImgDet&rs=1'
     ),
+    new Recipe(
+      'Ricetta di prova',
+      'Una bella ricetta',
+      'https://th.bing.com/th/id/OIP.QExi6APdpquqTSgicOJpWgHaE-?pid=ImgDet&rs=1'
+    ),
   ];
 
   constructor() {}
